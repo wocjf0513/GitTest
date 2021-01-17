@@ -1,0 +1,1 @@
+git init 을 통해 로컬 저장소 생성 -> git add 와 git rm, git commit 을 통해 파일을 인덱스 , 저장소에 저장 -> git remote add origin #git 주소를 통해 원격 저장소 연결 -> git push를통해 원격 저장소에 저장 끝
